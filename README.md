@@ -31,3 +31,7 @@ system below Navajo. Vallecito, Lemon, and Long Hollow reservoirs are simulated 
 StateMod and their representation is considered sufficient for the SJBHM purposes. Water use and
 other streamflow depletions in Colorado above the SJRIP RiverWare model’s boundary inflow nodes are
 simulated within San Juan StateMod.
+
+The SJBHM is considered a "live" model and is updated annually with any changes necessary to keep up with
+any method or data changes requested by the SJRIP or required by the technology in use. The version here
+is considered the most current version. For questions please contact sbehery@usbr.gov
